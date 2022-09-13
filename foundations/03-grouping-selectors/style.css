@@ -1,0 +1,12 @@
+.clicker .better-clicker{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
+.clicker{
+    background-color: black;
+    color: hsl(120,0%,100%);
+
+}
+.better-clicker{
+    background-color: #EFFF00;
+}
