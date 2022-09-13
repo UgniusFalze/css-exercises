@@ -1,0 +1,19 @@
+.odd-number{
+    background-color: rgb(255,159,159);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#second{
+    color: #001AFF;
+    font-size: 36px;
+}
+
+.better{
+    font-size: 24px;
+}
+
+#thebetterid{
+    background-color: #90F28D;
+    font-size: 24px;
+    font-weight: bold;
+}
